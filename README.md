@@ -24,16 +24,16 @@ A simple **Bank Management System** developed in **C Programming** that simulate
 ## 📂 Project Structure
 
 BankManagementSystem/
-│── main.c
-│── bank.h
-│── create.c
-│── login.c
-│── deposit.c
-│── withdraw.c
-│── view.c
-│── delete.c
-│── Makefile
-└── README.md
+- │── main.c
+- │── bank.h
+- │── create.c
+- │── login.c
+- │── deposit.c
+- │── withdraw.c
+- │── view.c
+- │── delete.c
+- │── Makefile
+- └── README.md
 
 
 ## ⚙️ Functionalities
